@@ -15,11 +15,11 @@
 
 ----
 
-## 👨 Onde me encontrar
+## 💬 Onde me Encontrar
 
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andr%C3%A9-nagybhe-153b171b2/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ins4nityhz@gmail.com)
 
 ----
-## DevOps
+##  👨‍💻 DevOps
   
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub SEU NOME]( https://img.shields.io/github/followers/nagybhe?label=follow&style=social) 
