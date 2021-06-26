@@ -3,7 +3,7 @@
 > Desejo fazer parte do time da empresa oferecendo o melhor. Sou uma pessoa muito dedicada e comprometida com as atribuições que são dadas a mim.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em  **Sistemas Para Internet** no <a href="https://meta.edu.br/faculdade/">Faculdade De Tecnologia do Amapá - META</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Aprendendo mais sobre **Laravel 8**.
 
 <i>“Se você faz bons produtos, torne-os ainda melhores. Se faz bom atendimento e entrega serviços de qualidade, este é seu negócio” - Steve Jobs</i>
 
