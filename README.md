@@ -4,6 +4,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em  **Sistemas Para Internet** no <a href="https://meta.edu.br/faculdade/">Faculdade De Tecnologia do Amapá - META</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Laravel 8**.
+- 🌱 &nbsp; Aprendendo mais sobre **Node.js**.
 
 <i>“Se você faz bons produtos, torne-os ainda melhores. Se faz bom atendimento e entrega serviços de qualidade, este é seu negócio” - Steve Jobs</i>
 
