@@ -35,9 +35,9 @@ Escola – Centro de Ensino Supletivo Prof°. Paulo Melo.
 *MSB Tecnologia* (2025 - o momento)  
 - Refinamento de backlog, gestão de requisitos, modelagem de processos e controle da qualidade em ambientes ágeis.
 
-**Back-end Developer (RPA)**  
+**Back-end RPA Developer and Quality Testing**  
 *Tributei* (2023 - 2025)  
-- Desenvolvimento de robôs, integração de sistemas e análise de processos.
+- Desenvolvimento de robôs, integração de sistemas, análise de processos e garantia da qualidade de software (QA).
 
 **Head Customer Success**  
 *Tributei* (6 meses)  
