@@ -2,6 +2,8 @@
 ## Olá, Meu nome é <strong> *André Nagybhe Hage*!</strong>
 Sou formado em **Sistemas para Internet** pela **Faculdade Meta**, com experiência em **Customer Success**, **Customer Support** e atuação como **Head de Customer Success**. Especialista em **retenção de clientes**, **onboarding estratégico** e **churn rate**, sempre focado em **engajamento** e **crescimento sustentável**.
 
+Sou formado em **Sistemas para Internet** pela **Faculdade Meta**, com experiência em **Customer Success**, **Customer Suppor**t e atuação como **Head de Customer Success**. Especialista em **retenção de clientes**, **onboarding estratégico** e **churn rate**, sempre focado em engajamento e crescimento sustentável. Também atuo na área de **QA (Quality Assurance)**, com foco na definição e **execução de testes**, **identificação de bugs**, **validação de requisitos** e **garantia da qualidade** de entregas em ciclos ágeis de desenvolvimento.
+
 Minha trajetória começou em **Customer Success**, mas, com o tempo, me especializei também como **RPA Developer** e em **Quality Testing**. Participei de projetos envolvendo **automação de processos**, **integração via API**, **Quality Analytics** e realização de **Pentests White Box e Gray**. Recentemente, conquistei o **1º lugar no Hackathon Gamefica (TITCS)**, destacando minha capacidade de inovação e trabalho em equipe.
 
 Sou apaixonado por **e-sports** e atleta de alto rendimento, **faixa preta em judô**, onde aprimorei **disciplina**, **resiliência** e **pensamento estratégico**. Movido por desafios, busco constantemente evoluir, expandir minhas habilidades e entregar **soluções inovadoras** e de **alto impacto**. 🚀
@@ -30,6 +32,9 @@ Escola – Centro de Ensino Supletivo Prof°. Paulo Melo.
 ---
 
 ## Experiência Profissional
+**Analista de Requisitos (PO)**  
+*MSB Tecnologia* (2025 - o momento)  
+- Refinamento de backlog, gestão de requisitos, modelagem de processos e controle da qualidade em ambientes ágeis.
 
 **Back-end Developer (RPA)**  
 *Tributei* (2023 - 2025)  
