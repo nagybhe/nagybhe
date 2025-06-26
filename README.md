@@ -1,6 +1,5 @@
 # Sobre
 ## Olá, Meu nome é <strong> *André Nagybhe Hage*!</strong>
-Sou formado em **Sistemas para Internet** pela **Faculdade Meta**, com experiência em **Customer Success**, **Customer Support** e atuação como **Head de Customer Success**. Especialista em **retenção de clientes**, **onboarding estratégico** e **churn rate**, sempre focado em **engajamento** e **crescimento sustentável**.
 
 Sou formado em **Sistemas para Internet** pela **Faculdade Meta**, com experiência em **Customer Success**, **Customer Suppor**t e atuação como **Head de Customer Success**. Especialista em **retenção de clientes**, **onboarding estratégico** e **churn rate**, sempre focado em engajamento e crescimento sustentável. Também atuo na área de **QA (Quality Assurance)**, com foco na definição e **execução de testes**, **identificação de bugs**, **validação de requisitos** e **garantia da qualidade** de entregas em ciclos ágeis de desenvolvimento.
 
