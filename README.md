@@ -1,16 +1,28 @@
 # Sobre
 ## Olá, Meu nome é <strong> *André Nagybhe Hage*!</strong>
 
-Sou formado em **Sistemas para Internet** pela **Faculdade Meta**, com experiência em **Customer Success**, **Customer Suppor**t e atuação como **Head de Customer Success**. Especialista em **retenção de clientes**, **onboarding estratégico** e **churn rate**, sempre focado em engajamento e crescimento sustentável. Também atuo na área de **QA (Quality Assurance)**, com foco na definição e **execução de testes**, **identificação de bugs**, **validação de requisitos** e **garantia da qualidade** de entregas em ciclos ágeis de desenvolvimento.
+Olá! Sou formado em Sistemas para Internet pela Faculdade Meta e atualmente curso pós-graduação em Engenharia de Software, aprofundando meus conhecimentos em desenvolvimento, arquitetura e qualidade de sistemas.
 
-Minha trajetória começou em **Customer Success**, mas, com o tempo, me especializei também como **RPA Developer** e em **Quality Testing**. Participei de projetos envolvendo **automação de processos**, **integração via API**, **Quality Analytics** e realização de **Pentests White Box e Gray**. Recentemente, conquistei o **1º lugar no Hackathon Gamefica (TITCS)**, destacando minha capacidade de inovação e trabalho em equipe.
+Iniciei minha trajetória em Customer Success, onde atuei como Head, com foco em retenção, onboarding estratégico e redução de churn. Essa base me proporcionou uma visão centrada no cliente e reforçou a importância da qualidade em todas as etapas do ciclo de vida do produto.
 
-Sou apaixonado por **e-sports** e atleta de alto rendimento, **faixa preta em judô**, onde aprimorei **disciplina**, **resiliência** e **pensamento estratégico**. Movido por desafios, busco constantemente evoluir, expandir minhas habilidades e entregar **soluções inovadoras** e de **alto impacto**. 🚀
+Com o tempo, migrei para a área técnica, me especializando como RPA Developer em paralelo Quality Assurance. Tenho experiência com testes manuais e automatizados, integrações via API, Quality Analytics, além de atuar em Pentests White Box e Gray Box.
+
+Participei de projetos de automação de processos e testes de APIs, sempre com foco em confiabilidade, segurança e escalabilidade. Em 2024, conquistei o 1º lugar no Hackathon Gamefica (TITCS), reforçando minha capacidade de inovação, colaboração e entrega sob pressão.
+
+Sou também atleta de alto rendimento e faixa preta em judô, onde desenvolvi disciplina, resiliência e pensamento estratégico. Essas são características que aplico diariamente no ambiente profissional.
+
+Sou movido por desafios e aprendizado contínuo, sempre buscando entregar soluções eficientes, seguras e com alto padrão de qualidade. 🚀
 
 # Qualificações
 ## Formação
+**Estácio** (2025 - 2026 (Data de término ou prevista)  
+Engenharia de Software - Pós-graduação
+
+**Faculdade de Informática e Administração Paulista (FIAP)** (2024)  
+Offensive Cyber Security - Red Team Operations - Pós-graduação
+
 **Faculdade de Tecnologia do Amapá - Meta** (2019 - 2021)  
-Sistemas para Internet
+Sistemas para Internet - Graduação
 
 **Ensino Médio Completo** (2017)  
 Escola – Centro de Ensino Supletivo Prof°. Paulo Melo.
@@ -32,7 +44,7 @@ Escola – Centro de Ensino Supletivo Prof°. Paulo Melo.
 
 ## Experiência Profissional
 **Analista de Requisitos (PO)**  
-*MSB Tecnologia* (2025 - o momento)  
+*MSB Tecnologia* (2025 - 2025)  
 - Refinamento de backlog, gestão de requisitos, modelagem de processos e controle da qualidade em ambientes ágeis.
 
 **Back-end RPA Developer and Quality Testing**  
