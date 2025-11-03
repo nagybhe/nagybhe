@@ -23,8 +23,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nagybhe&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/nagybhe?label=Followers&style=social)
-![Repositories](https://badges.pufler.dev/repos/nagybhe?color=purple&logo=github)
-
+![Repositories](https://img.shields.io/badge/Repositories-15+-purple?logo=github)
 ## 🎯 Sobre Mim
 
 Sou formado em Sistemas para Internet pela Faculdade Meta e atualmente curso pós-graduação em Engenharia de Software, aprofundando meus conhecimentos em desenvolvimento, arquitetura e qualidade de sistemas.
