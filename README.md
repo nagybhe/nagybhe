@@ -1,7 +1,33 @@
-# Sobre
-## Olá, Meu nome é <strong> *André Nagybhe Hage*!</strong>
+<h1 align="center">👋 Olá, eu sou André Nagybhe Hage!</h1>
+<h3 align="center">🚀 QA Engineer | RPA Developer | Cyber Security Specialist</h3>
 
-Olá! Sou formado em Sistemas para Internet pela Faculdade Meta e atualmente curso pós-graduação em Engenharia de Software, aprofundando meus conhecimentos em desenvolvimento, arquitetura e qualidade de sistemas.
+<p align="center">
+  <a href="mailto:ins4nityhz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-nagybhe-153b171b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/nagybhe_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/NagybheHage">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+## 📊 GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagybhe&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagybhe&layout=compact&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nagybhe&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/nagybhe?label=Followers&style=social)
+![Repositories](https://badges.pufler.dev/repos/nagybhe?color=purple&logo=github)
+
+## 🎯 Sobre Mim
+
+Sou formado em Sistemas para Internet pela Faculdade Meta e atualmente curso pós-graduação em Engenharia de Software, aprofundando meus conhecimentos em desenvolvimento, arquitetura e qualidade de sistemas.
 
 Iniciei minha trajetória em Customer Success, onde atuei como Head, com foco em retenção, onboarding estratégico e redução de churn. Essa base me proporcionou uma visão centrada no cliente e reforçou a importância da qualidade em todas as etapas do ciclo de vida do produto.
 
@@ -11,11 +37,78 @@ Participei de projetos de automação de processos e testes de APIs, sempre com 
 
 Sou também atleta de alto rendimento e faixa preta em judô, onde desenvolvi disciplina, resiliência e pensamento estratégico. Essas são características que aplico diariamente no ambiente profissional.
 
-Sou movido por desafios e aprendizado contínuo, sempre buscando entregar soluções eficientes, seguras e com alto padrão de qualidade. 🚀
+## 🛠️ Tech Stack
 
-# Qualificações
-## Formação
-**Estácio** (2025 - 2026 (Data de término ou prevista)  
+### 🔧 **QA & Automação**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### 💻 **Desenvolvimento**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ **Banco de Dados & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ **Cloud & Security**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-F5A623?style=for-the-badge&logo=robot&logoColor=white)
+
+## 🏆 Projetos em Destaque
+
+### 🔥 **QualityOps** 
+[![Stars](https://img.shields.io/github/stars/nagybhe/QualityOps?style=flat-square)](https://github.com/nagybhe/QualityOps)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/QualityOps?style=flat-square)](https://github.com/nagybhe/QualityOps)
+
+Ambiente Jenkins completo em Docker com 70+ plugins para automação de QA
+
+**Tecnologias:** Docker • Jenkins • Allure • JUnit • Playwright • CI/CD
+
+### 🧪 **QA-Desafio-FIESC**
+[![Stars](https://img.shields.io/badge/Stars-nagybhe/QA--Desafio--Pratico--FIESC-yellow?style=flat-square)](https://github.com/nagybhe/QA-Desafio-Pratico-FIESC)
+
+Desafio prático de Quality Assurance com metodologias de teste aplicadas
+
+**Foco:** Test Strategy • Automation • API Testing • Security Testing
+
+### 🤖 **Web Test Automation**
+[![Stars](https://img.shields.io/badge/Stars-nagybhe/web--test--automation-yellow?style=flat-square)](https://github.com/nagybhe/web-test-automation)
+
+Automação E2E com Playwright para testes web e monitoramento de API
+
+**Stack:** Playwright • Node.js • CI/CD • Reporting
+
+### 🌐 **Portfolio React**
+[![Stars](https://img.shields.io/badge/Stars-nagybhe/Portfolio-yellow?style=flat-square)](https://github.com/nagybhe/Portfolio)
+
+Portfólio profissional desenvolvido em React
+
+**Tecnologias:** React • JavaScript • CSS • Vercel
+
+## 📈 Estatísticas de Contribuição
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nagybhe&theme=radical&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nagybhe&theme=react-dark&hide_border=true&area=true)
+
+## 🎓 Formação Acadêmica
+
+**Estácio** (2025 - 2026)  
 Engenharia de Software - Pós-graduação
 
 **Faculdade de Informática e Administração Paulista (FIAP)** (2024)  
@@ -24,64 +117,53 @@ Offensive Cyber Security - Red Team Operations - Pós-graduação
 **Faculdade de Tecnologia do Amapá - Meta** (2019 - 2021)  
 Sistemas para Internet - Graduação
 
-**Ensino Médio Completo** (2017)  
-Escola – Centro de Ensino Supletivo Prof°. Paulo Melo.
+## 📜 Certificações
 
----
+- **Orchestrator Admin**: ElectroNeek Orchestrator
+- **RPA Developer**: ElectroNeek Studio Pro
+- **Offensive Cyber Security**: FIAP
+- **Azure Cloud Computing**
+- **Scrum & Metodologias Ágeis**
+- **Cybersecurity, DevOps & Agile Culture**
+- **Customer Success & Gestão por OKRs**
+- **JavaScript & Node.js Development**
+- **MySQL Database Administration**
 
-## Licenças e Certificados
-- Orchestrator Admin: ElectroNeek Orchestrator
-- RPA Developer: ElectroNeek Studio Pro
-- Atendimento ao Cliente
-- Cybersecurity, DevOps & Agile Culture, User Experience
-- G4 Startups, Vendas, Inteligência Emocional
-- Fundamentos de Customer Success, Finanças e Gestão por OKRs
-- Programação em JavaScript, Banco de Dados MySQL & PHPMyAdmin
-- Arquitetura de Sistemas, Cloud Computing, Azure
-- Lógica de Programação, Scrum, Liderança
+## 💼 Experiência Profissional
 
----
-
-## Experiência Profissional
 **Analista de Requisitos (PO)**  
 *MSB Tecnologia* (2025 - 2025)  
-- Refinamento de backlog, gestão de requisitos, modelagem de processos e controle da qualidade em ambientes ágeis.
+Refinamento de backlog, gestão de requisitos, modelagem de processos e controle da qualidade em ambientes ágeis.
 
 **Back-end RPA Developer and Quality Testing**  
 *Tributei* (2023 - 2025)  
-- Desenvolvimento de robôs, integração de sistemas, análise de processos e garantia da qualidade de software (QA).
+Desenvolvimento de robôs, integração de sistemas, análise de processos e garantia da qualidade de software (QA).
 
 **Head Customer Success**  
 *Tributei* (6 meses)  
-- Gestão de equipe, engajamento de clientes e análise de performance.
+Gestão de equipe, engajamento de clientes e análise de performance.
 
 **Customer Support**  
 *Tributei* (2022 - 2023)  
-- Atendimento, resolução de problemas, e manutenção de base de conhecimento.
+Atendimento, resolução de problemas, e manutenção de base de conhecimento.
 
-**Customer Success**  
-*Tributei* (2021 - 2022)  
-- Monitoramento de métricas e onboarding de clientes.
+## 🏅 Conquistas
 
-**Sonoplasta**  
-*Op’Art* (2013 - 2018)  
-- Criação de artes, edição de vídeo e áudio.
+- 🥇 **1º Lugar Hackathon Gamefica 2024**
+- 🥋 **Faixa Preta em Judô - Atleta de alto rendimento**
+- 📚 **2 Pós-graduações em andamento**
+- 🚀 **4+ anos de experiência em tecnologia**
+- 🔒 **Especialização em Cyber Security Offensiva**
+- 🤖 **Certificação em RPA Development**
+- ☁️ **Experiência em Cloud Computing**
 
-----
+## 📞 Contato
 
-## 🚀 Hard Skills
+[![Email](https://img.shields.io/badge/Email-ins4nityhz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ins4nityhz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Nagybhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-nagybhe-153b171b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-two-51.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-@NagybheHage-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NagybheHage)
 
-<img src="https://img.shields.io/badge/HTML5-100%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-100%25-239120?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Framework%20Bootstrap-100%25-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  <img src="https://img.shields.io/badge/GitHub%20%7C%20GitLab-90%25-F05032?style=for-the-badge&logo=git&logoColor=white" />  <img src="https://img.shields.io/badge/RPA%20(Robotic%20Process%20Automation)-80%25-F5A623?style=for-the-badge" />  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/React%20Native-60%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/Gerenciamento%20de%20Projetos-60%25-007ACC?style=for-the-badge" />  <img src="https://img.shields.io/badge/Plataformas%20de%20Suporte%20e%20CRMs-90%25-007ACC?style=for-the-badge" />  <img src="https://img.shields.io/badge/Sistemas%20de%20Tickets-90%25-007ACC?style=for-the-badge" />  <img src="https://img.shields.io/badge/Adobe%20Photoshop-100%25-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />  <img src="https://img.shields.io/badge/Adobe%20Illustrator-100%25-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />  <img src="https://img.shields.io/badge/Figma-100%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  <img src="https://img.shields.io/badge/Metodologias%20Ágeis-100%25-563D7C?style=for-the-badge" />  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />  <img src="https://img.shields.io/badge/PHP-60%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />  <img src="https://img.shields.io/badge/Banco%20de%20Dados-60%25-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/Suporte%20por%20Canal%20Específico-90%25-007ACC?style=for-the-badge" />  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas%20Técnicos-100%25-F5A623?style=for-the-badge" />  <img src="https://img.shields.io/badge/Análise%20de%20Dados%20e%20Relatórios-100%25-007ACC?style=for-the-badge" />
+---
 
-----
-
-## 💬 Onde me Encontrar
-  <a href="mailto:ins4nityhz@gmail.com?subject=&body=Bom Dia..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nagybhe_/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-nagybhe-153b171b2/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/NagybheHage"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><a/>
-
-----
-##  👨‍💻 DevOps
-  
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub SEU NOME]( https://img.shields.io/github/followers/nagybhe?label=follow&style=social) 
+> **⚡ "From customer success to technical excellence - bridging business needs with technical solutions through quality and automation"**
