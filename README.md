@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou André Nagybhe Hage!</h1>
-<h3 align="center">🚀 QA Engineer | RPA Developer | Cyber Security Specialist</h3>
+<h3 align="center">🚀 QA Engineer | Especialista em Automação de Testes</h3>
 
 <p align="center">
   <a href="mailto:ins4nityhz@gmail.com">
@@ -146,16 +146,6 @@ Gestão de equipe, engajamento de clientes e análise de performance.
 **Customer Support**  
 *Tributei* (2022 - 2023)  
 Atendimento, resolução de problemas, e manutenção de base de conhecimento.
-
-## 🏅 Conquistas
-
-- 🥇 **1º Lugar Hackathon Gamefica 2024**
-- 🥋 **Faixa Preta em Judô - Atleta de alto rendimento**
-- 📚 **2 Pós-graduações em andamento**
-- 🚀 **4+ anos de experiência em tecnologia**
-- 🔒 **Especialização em Cyber Security Offensiva**
-- 🤖 **Certificação em RPA Development**
-- ☁️ **Experiência em Cloud Computing**
 
 ## 📞 Contato
 
