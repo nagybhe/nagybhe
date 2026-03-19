@@ -125,11 +125,15 @@ Sistemas para Internet - Graduação
 ## 💼 Experiência
 
 **QA Automation Engineer & RPA Developer**
+
 *Tributei (2023 - 2025)*
+
 Automação de testes E2E e API, validação de integrações, CI/CD e garantia de qualidade em sistemas escaláveis.
 
 **Analista de Requisitos (PO)**
+
 *MSB Tecnologia (2025)*
+
 Definição de cenários de teste, refinamento de backlog e garantia de qualidade em ambientes ágeis.
 
 ## 🚀 Vamos conectar?
