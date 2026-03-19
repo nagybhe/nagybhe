@@ -1,19 +1,7 @@
 <h1 align="center">👋 Olá, eu sou André Nagybhe Hage!</h1>
-<h3 align="center">🚀 QA Engineer | Especialista em Automação de Testes</h3>
-
+<h3 align="center">🚀 QA Automation Engineer | Test Automation Specialist</h3>
 <p align="center">
-  <a href="mailto:ins4nityhz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-nagybhe-153b171b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/nagybhe_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://t.me/NagybheHage">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+  💡 +3 anos em tecnologia | QA Automation | CI/CD | API Testing | E2E Tests
 </p>
 
 ## 📊 GitHub Status
@@ -24,17 +12,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nagybhe&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/nagybhe?label=Followers&style=social)
 ![Repositories](https://img.shields.io/badge/Repositories-15+-purple?logo=github)
+
 ## 🎯 Sobre Mim
 
-Sou formado em Sistemas para Internet pela Faculdade Meta e atualmente curso pós-graduação em Engenharia de Software, aprofundando meus conhecimentos em desenvolvimento, arquitetura e qualidade de sistemas.
+QA Engineer com foco em automação de testes e qualidade de software. Experiência prática com Cypress, Playwright, testes de API e pipelines CI/CD, atuando na criação de testes E2E, validação de integrações e garantia de entregas confiáveis.
 
-Iniciei minha trajetória em Customer Success, onde atuei como Head, com foco em retenção, onboarding estratégico e redução de churn. Essa base me proporcionou uma visão centrada no cliente e reforçou a importância da qualidade em todas as etapas do ciclo de vida do produto.
+Atuo desde o planejamento até a execução de testes, incluindo definição de cenários, automação, análise de resultados e melhoria contínua dos processos de qualidade.
 
-Com o tempo, migrei para a área técnica, me especializando como RPA Developer em paralelo Quality Assurance. Tenho experiência com testes manuais e automatizados, integrações via API, Quality Analytics, além de atuar em Pentests White Box e Gray Box.
+Tenho background em análise de requisitos e metodologias ágeis, o que me permite transformar necessidades de negócio em estratégias eficientes de teste.
 
-Participei de projetos de automação de processos e testes de APIs, sempre com foco em confiabilidade, segurança e escalabilidade. Em 2024, conquistei o 1º lugar no Hackathon Gamefica (TITCS), reforçando minha capacidade de inovação, colaboração e entrega sob pressão.
+🚀 Focado em qualidade, performance e confiabilidade de software.
 
-Sou também atleta de alto rendimento e faixa preta em judô, onde desenvolvi disciplina, resiliência e pensamento estratégico. Essas são características que aplico diariamente no ambiente profissional.
+## ⚡ Especialidades
+
+- Automação de Testes E2E
+- Testes de API (REST)
+- Integração Contínua (CI/CD)
+- Test Strategy & Quality Assurance
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +68,7 @@ Sou também atleta de alto rendimento e faixa preta em judô, onde desenvolvi di
 [![Stars](https://img.shields.io/github/stars/nagybhe/QualityOps?style=flat-square)](https://github.com/nagybhe/QualityOps)
 [![Last Commit](https://img.shields.io/github/last-commit/nagybhe/QualityOps?style=flat-square)](https://github.com/nagybhe/QualityOps)
 
-Ambiente Jenkins completo em Docker com 70+ plugins para automação de QA
+Ambiente completo de CI/CD para QA com Jenkins e Docker, focado em automação, execução de testes e geração de relatórios
 
 **Tecnologias:** Docker • Jenkins • Allure • JUnit • Playwright • CI/CD
 
@@ -124,29 +118,22 @@ Sistemas para Internet - Graduação
 - **Azure Cloud Computing**
 - **Scrum & Metodologias Ágeis**
 - **Cybersecurity, DevOps & Agile Culture**
-- **Customer Success & Gestão por OKRs**
-- **JavaScript & Node.js Development**
-- **MySQL Database Administration**
+- **QA Automation & Testing**
+- **DevOps & CI/CD**
+- **Cybersecurity & Cloud**
 
-## 💼 Experiência Profissional
+## 💼 Experiência
 
-**Analista de Requisitos (PO)**  
-*MSB Tecnologia* (2025 - 2025)  
-Refinamento de backlog, gestão de requisitos, modelagem de processos e controle da qualidade em ambientes ágeis.
+**QA Automation Engineer & RPA Developer**
+*Tributei (2023 - 2025)*
+Automação de testes E2E e API, validação de integrações, CI/CD e garantia de qualidade em sistemas escaláveis.
 
-**Back-end RPA Developer and Quality Testing**  
-*Tributei* (2023 - 2025)  
-Desenvolvimento de robôs, integração de sistemas, análise de processos e garantia da qualidade de software (QA).
+**Analista de Requisitos (PO)**
+*MSB Tecnologia (2025)*
+Definição de cenários de teste, refinamento de backlog e garantia de qualidade em ambientes ágeis.
 
-**Head Customer Success**  
-*Tributei* (6 meses)  
-Gestão de equipe, engajamento de clientes e análise de performance.
-
-**Customer Support**  
-*Tributei* (2022 - 2023)  
-Atendimento, resolução de problemas, e manutenção de base de conhecimento.
-
-## 📞 Contato
+## 🚀 Vamos conectar?
+Buscando um QA focado em automação, qualidade e entregas confiáveis? Vamos conversar.
 
 [![Email](https://img.shields.io/badge/Email-ins4nityhz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ins4nityhz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Nagybhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-nagybhe-153b171b2/)
@@ -155,4 +142,4 @@ Atendimento, resolução de problemas, e manutenção de base de conhecimento.
 
 ---
 
-> **⚡ "From customer success to technical excellence - bridging business needs with technical solutions through quality and automation"**
+> **⚡ "Quality is not an act, it's an automated process."**
