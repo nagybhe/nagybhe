@@ -64,41 +64,53 @@ Tenho background em análise de requisitos e metodologias ágeis, o que me permi
 
 ## 🏆 Projetos em Destaque
 
-### 🔥 **QualityOps** 
-[![Stars](https://img.shields.io/github/stars/nagybhe/QualityOps?style=flat-square)](https://github.com/nagybhe/QualityOps)
-[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/QualityOps?style=flat-square)](https://github.com/nagybhe/QualityOps)
+### 🧪 **QA-Desafio-Pratico-FIESC**
+[![Stars](https://img.shields.io/github/stars/nagybhe/QA-Desafio-Pratico-FIESC?style=flat-square)](https://github.com/nagybhe/QA-Desafio-Pratico-FIESC)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/QA-Desafio-Pratico-FIESC?style=flat-square)](https://github.com/nagybhe/QA-Desafio-Pratico-FIESC)
 
-Ambiente completo de CI/CD para QA com Jenkins e Docker, focado em automação, execução de testes e geração de relatórios
+Um desafio prático de Quality Assurance (QA) proposto pela FIESC (Federação das Indústrias do Estado de Santa Catarina), com o objetivo de avaliar habilidades em testes de software, automação, análise...
 
-**Tecnologias:** Docker • Jenkins • Allure • JUnit • Playwright • CI/CD
+**Stack:** JavaScript • QA • Test Automation
 
-### 🧪 **QA-Desafio-FIESC**
-[![Stars](https://img.shields.io/badge/Stars-nagybhe/QA--Desafio--Pratico--FIESC-yellow?style=flat-square)](https://github.com/nagybhe/QA-Desafio-Pratico-FIESC)
+### 🎭 **Desafio-Qa-Playwright**
+[![Stars](https://img.shields.io/github/stars/nagybhe/Desafio-Qa-Playwright?style=flat-square)](https://github.com/nagybhe/Desafio-Qa-Playwright)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/Desafio-Qa-Playwright?style=flat-square)](https://github.com/nagybhe/Desafio-Qa-Playwright)
 
-Desafio prático de Quality Assurance com metodologias de teste aplicadas
+DESAFIO TÉCNICO - ANALISTA DE QUALIDADE JR/SR - PLAYWRIGHT
 
-**Foco:** Test Strategy • Automation • API Testing • Security Testing
+**Stack:** TypeScript • Playwright • E2E Testing
 
-### 🤖 **Web Test Automation**
-[![Stars](https://img.shields.io/badge/Stars-nagybhe/web--test--automation-yellow?style=flat-square)](https://github.com/nagybhe/web-test-automation)
+### 🚚 **Desafio-Pratico-TRIBUTEI**
+[![Stars](https://img.shields.io/github/stars/nagybhe/Desafio-Pratico-TRIBUTEI?style=flat-square)](https://github.com/nagybhe/Desafio-Pratico-TRIBUTEI)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/Desafio-Pratico-TRIBUTEI?style=flat-square)](https://github.com/nagybhe/Desafio-Pratico-TRIBUTEI)
 
-Automação E2E com Playwright para testes web e monitoramento de API
+Sistema de gerenciamento de entregas com mapa interativo. Desenvolvido para o desafio técnico da Tributei.
 
-**Stack:** Playwright • Node.js • CI/CD • Reporting
+**Stack:** JavaScript • Mapas • Delivery System
 
-### 🌐 **Portfolio React**
-[![Stars](https://img.shields.io/badge/Stars-nagybhe/Portfolio-yellow?style=flat-square)](https://github.com/nagybhe/Portfolio)
+### 📚 **Desafio-QA-Engineer-ESTRATEGIA**
+[![Stars](https://img.shields.io/github/stars/nagybhe/Desafio-QA-Engineer-ESTRATEGIA?style=flat-square)](https://github.com/nagybhe/Desafio-QA-Engineer-ESTRATEGIA)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/Desafio-QA-Engineer-ESTRATEGIA?style=flat-square)](https://github.com/nagybhe/Desafio-QA-Engineer-ESTRATEGIA)
 
-Portfólio profissional desenvolvido em React
+Desafio Técnico - QA Engineer - Automação de testes E2E (Playwright) e API (Jest) para Estratégia Concursos
 
-**Tecnologias:** React • JavaScript • CSS • Vercel
+**Stack:** TypeScript • Playwright • Jest • API Testing • E2E
 
-## 📈 Estatísticas de Contribuição
+### 🐕 **Desafio-QA-Engineer-IDWALL**
+[![Stars](https://img.shields.io/github/stars/nagybhe/Desafio-QA-Engineer-IDWALL?style=flat-square)](https://github.com/nagybhe/Desafio-QA-Engineer-IDWALL)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/Desafio-QA-Engineer-IDWALL?style=flat-square)](https://github.com/nagybhe/Desafio-QA-Engineer-IDWALL)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nagybhe&theme=radical&hide_border=true)
+Desafio técnico completo para QA Engineer na IDwall - Testes Web, API e Mobile com Playwright, WebdriverIO e Jenkins
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nagybhe&theme=react-dark&hide_border=true&area=true)
+**Stack:** JavaScript • Playwright • WebdriverIO • Jenkins • Docker • API Testing • Mobile Testing
 
+### 🌐 **Portfolio**
+[![Stars](https://img.shields.io/github/stars/nagybhe/Portfolio?style=flat-square)](https://github.com/nagybhe/Portfolio)
+[![Last Commit](https://img.shields.io/github/last-commit/nagybhe/Portfolio?style=flat-square)](https://github.com/nagybhe/Portfolio)
+
+O "Portfólio" é um site que tem como objetivo fornecer informações gerais sobre o proprietário aos visitantes. Ele funciona como uma vitrine online para que o proprietário possa exibir seu trabalho...
+
+**Stack:** JavaScript • React • CSS • Vercel
 ## 🎓 Formação Acadêmica
 
 **Estácio** (2025 - 2026)  
